@@ -5,7 +5,8 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   output: "export",
   basePath: "/clothing-brand-nexts-prototype",
-  assetPrefix: "https://mr-arsal4u.github.io/clothing-brand-nexts-prototype",
+  assetPrefix: "/clothing-brand-nexts-prototype/",
+  trailingSlash: true,
   images: {
     unoptimized: true,
     remotePatterns: [
