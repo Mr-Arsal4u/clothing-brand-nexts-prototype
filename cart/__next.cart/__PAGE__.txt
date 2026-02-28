@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
-3:I[15332,["https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/e1900dcd591d7c90.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/1fd072243c64b3d0.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/230ea538471c1ab4.js"],"default"]
-6:I[97367,["https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2:I[47257,["/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
+3:I[15332,["/clothing-brand-nexts-prototype/_next/static/chunks/e1900dcd591d7c90.js","/clothing-brand-nexts-prototype/_next/static/chunks/1fd072243c64b3d0.js","/clothing-brand-nexts-prototype/_next/static/chunks/df26a44c7648cd6e.js"],"default"]
+6:I[97367,["/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"914W1YChgVQBoEW_W5PrA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/230ea538471c1ab4.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"2NLe_lYP0xwFNcS1T7ZhU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/clothing-brand-nexts-prototype/_next/static/chunks/df26a44c7648cd6e.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null

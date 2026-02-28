@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[97367,["https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:I[97367,["/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"914W1YChgVQBoEW_W5PrA","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/2968e883d43e45fe.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"2NLe_lYP0xwFNcS1T7ZhU","rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/clothing-brand-nexts-prototype/_next/static/chunks/7f7d7a63990a9067.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
