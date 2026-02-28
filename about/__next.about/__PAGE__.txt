@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/ff1a16fafef87110.js","https://mr-arsal4u.github.io/clothing-brand-nexts-prototype/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"914W1YChgVQBoEW_W5PrA","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-6 py-10","children":[["$","h1",null,{"className":"text-2xl text-ink","children":"About"}],["$","div",null,{"className":"mt-4 space-y-4 text-ink/80","children":[["$","p",null,{"children":"Nord Atelier is a study in restraint. We focus on material, proportion, and permanence, creating a wardrobe of refined essentials in a muted palette."}],["$","p",null,{"children":"Our pieces are designed in small batches and guided by Scandinavian minimalism—calm, functional, and enduring."}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
